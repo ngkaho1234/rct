@@ -1,7 +1,7 @@
 #ifndef Blob_h
 #define Blob_h
 
-#include <string.h>
+#include <cstring>
 #include <string>
 
 #include "Serializer.h"
